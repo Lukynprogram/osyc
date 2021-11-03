@@ -46,3 +46,4 @@ def zmena_hostname():
         print("Nejspise jste se prepsal, zkuste znovu: \n")
         zmena_hostname()
 
+main()
